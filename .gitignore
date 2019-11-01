@@ -1,0 +1,13 @@
+# Byte-compiled
+*.pyc
+*.DS_Store
+
+# LocalConfig
+instance/fabenv.py
+instance/config.py
+
+# PyCharm
+.idea/
+
+# Wsgi
+wsgi.pid
